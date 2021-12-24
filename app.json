@@ -1,6 +1,6 @@
 {
-  "name": "Simpel WhatsApp Bot",
-  "description": "[wabot-adi] Thank you for using this script, don't forget to subscribe to my channel Adi Official",
+  "name": "FunXyy Botzz",
+  "description": "[wabot-fun] Thank you for using this script, don't forget to subscribe to my channel FUNXYY Official",
   "logo": "https://i.ibb.co/8z7zqXv/IMG-20210618-WA0001.jpg",
   "keywords": ["termux-whatsapp-bot",
     "whatsapp-bot",
@@ -18,15 +18,15 @@
       "required": true
     },
     "BOT_NAME": {
-      "description": "Enter Your Bot Name",
+      "description": "FunXyy Botzz",
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "your whatsapp number",
+      "description": "62882020186983",
       "required": true
     },
     "BOT_NUMBER": {
-      "description": "your whatsapp bot number",
+      "description": "62882020186983",
       "required": false
     }
 },
